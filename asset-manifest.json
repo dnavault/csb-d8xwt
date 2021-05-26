@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://dnavault.github.io/csb-d8xwt/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://dnavault.github.io/csb-d8xwt/static/js/main.fd20275d.chunk.js",
+    "main.js.map": "https://dnavault.github.io/csb-d8xwt/static/js/main.fd20275d.chunk.js.map",
+    "runtime-main.js": "https://dnavault.github.io/csb-d8xwt/static/js/runtime-main.d367d51b.js",
+    "runtime-main.js.map": "https://dnavault.github.io/csb-d8xwt/static/js/runtime-main.d367d51b.js.map",
+    "static/js/2.2350909c.chunk.js": "https://dnavault.github.io/csb-d8xwt/static/js/2.2350909c.chunk.js",
+    "static/js/2.2350909c.chunk.js.map": "https://dnavault.github.io/csb-d8xwt/static/js/2.2350909c.chunk.js.map",
+    "index.html": "https://dnavault.github.io/csb-d8xwt/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://dnavault.github.io/csb-d8xwt/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.2350909c.chunk.js.LICENSE.txt": "https://dnavault.github.io/csb-d8xwt/static/js/2.2350909c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d367d51b.js",
+    "static/js/2.2350909c.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.fd20275d.chunk.js"
+  ]
+}
